@@ -7,7 +7,7 @@ export const StyledToolbar = styled(Toolbar)(({ theme }) => ({
   justifyContent: "space-between",
   flexShrink: 0,
   borderRadius: "999px",
-  backdropFilter: "blur(10px)",
+  backdropFilter: "blur(7px)",
   maxHeight: "40px",
   border: "1px solid",
   borderColor: theme.palette.divider,
